@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522279895 source:c:\users\viktor\desktop\projetos\c\jogocobraai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL2/SDL.h>
+
+1523408146 source:c:\users\viktor\desktop\projetos\c\jogocobraai neural\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<locale.h>
+
+1524969265 source:c:\users\viktor\desktop\projetos\c\jogocobraai corrigido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<locale.h>
+
